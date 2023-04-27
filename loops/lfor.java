@@ -1,3 +1,4 @@
+package loops;
 import java.util.*;
 public class lfor {
     public static void main(String[]args){

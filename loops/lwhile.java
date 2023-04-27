@@ -1,3 +1,4 @@
+package loops;
 public class lwhile {
     public static void main(String[]args){
         int i=1;

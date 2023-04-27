@@ -1,3 +1,4 @@
+package functiion;
 import java.util.*;
 public class funcmyname {
     public static void printMyName(String name){

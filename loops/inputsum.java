@@ -1,3 +1,4 @@
+package loops;
 import java.util.*;
 public class inputsum {
     public static void main(String[]args){

@@ -1,3 +1,4 @@
+package functiion;
 public class funcsum {
     public static int clasum(int a,int b){
         int sum=a+b;
